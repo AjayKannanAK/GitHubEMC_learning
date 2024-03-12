@@ -1,1 +1,2 @@
 Third file created
+added second line in text3.txt file
